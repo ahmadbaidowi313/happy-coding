@@ -1,0 +1,3 @@
+Target Happy Coding di Tahun 2022
+- Membuat Aplikasi Sebanyak-banyaknya
+- Menambahkan banyak relasi Client
